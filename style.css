@@ -1,0 +1,103 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Pangolin", cursive;
+  margin: 2em;
+  background-color: orange;
+  color: blue;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.breadcrumb{
+  font-size: 50px;
+  font-family:"Arvo", serif;
+  background-color: rgb(252, 245, 20);
+  color: red;
+}
+
+.input-group{
+  margin-top: 50px;
+  margin-buttom: 50px;
+}
+
+h5{
+  font-size: 50px;
+  font-family: "Oswald", sans-serif;
+  color: indigo;
+}
+
+p{
+  font-size:30px;
+  font-family: "Pangolin", cursive;
+  color: orange;
+}
+
+.nav-item{
+  font-size: 20px;
+  font-family:"Pangolin", cursive;
+  color: white;
+}
+
+a href{
+  font-size: 30px;
+  font-family: "Oswald", sans-serif;
+  color: white;
+}
+
+h2{
+  color: lightblue;
+  font-family: "Pangolin", cursive;
+  background-color: rgb(164, 7, 242);
+  border: solid 1px;
+  margin: 10px;
+  padding: 10px;
+}
+
+h3{
+  color:red;
+  font-family: "Pangolin", cursive;
+  background-color: rgb(242, 7, 231);
+  border: solid 1px;
+  margin: 10px;
+  padding: 10px;
+}
+
+h4{
+  color:white;
+  font-family: "Pangolin", cursive;
+  background-color: rgb(242, 7, 7);
+  border: solid 1px;
+  margin: 10px;
+  padding: 10px;
+}
+
+p1{
+  color:indigo;
+  font-family: "Inconsolata", monospace;
+  background-color: rgb(242, 223, 7);
+  border: solid 1px;
+  margin: 10px;
+  padding: 10px;
+}
+
+p2{
+   color:rgb(70, 7, 242);
+  font-family: "Inconsolata", monospace;
+  background-color: black;
+  border: solid 1px;
+  margin: 10px;
+  padding: 10px;
+}
+
+p3{
+color:black;
+  font-family: "Inconsolata", monospace;
+  background-color: rgb(242, 7, 207);
+  border: solid 1px;
+  margin: 10px;
+  padding: 10px;
+  }
